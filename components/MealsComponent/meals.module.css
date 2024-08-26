@@ -1,0 +1,6 @@
+.mealsWrapper {
+  @apply flex flex-row gap-2;
+}
+.mealsCardWrapper {
+  @apply w-1/2 rounded-md border border-gray-300 shadow-md flex-col gap-1 p-1;
+}

@@ -1,0 +1,6 @@
+.headerWrapper {
+  @apply flex justify-start items-center gap-4;
+}
+.headerImage {
+  @apply w-8 h-8;
+}
